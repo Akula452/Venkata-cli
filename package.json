@@ -1,0 +1,32 @@
+{
+  "name": "venkata-cli",
+  "version": "1.0.0",
+  "description": "A cross-platform command-line tool for Linux and Windows",
+  "main": "bin/venkata.js",
+  "bin": {
+    "venkata": "./bin/venkata.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akula452/Venkata-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "tool",
+    "cross-platform"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akula452/Venkata-cli/issues"
+  },
+  "homepage": "https://github.com/Akula452/Venkata-cli#readme",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
