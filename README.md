@@ -11,7 +11,7 @@ A cross-platform command-line tool that works on Linux and Windows.
 
 ## Prerequisites
 
-- Node.js (version 12 or higher)
+- Node.js (version 20 or higher)
 - npm (comes with Node.js)
 
 ## Installation
