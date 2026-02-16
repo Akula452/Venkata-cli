@@ -2,7 +2,6 @@
   "name": "venkata-cli",
   "version": "1.0.0",
   "description": "A cross-platform command-line tool for Linux and Windows",
-  "main": "bin/venkata.js",
   "bin": {
     "venkata": "./bin/venkata.js"
   },
